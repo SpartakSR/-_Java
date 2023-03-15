@@ -8,7 +8,7 @@
 3. запрашивает по имени возраст,
 4. отображает возраст на консоли.
 
-[Решение]:https://github.com/SpartakSR/Task-Java/blob/main/1.java
+*[Решение](https://github.com/SpartakSR/Task-Java/blob/main/1.java)
 
 ## Задание № 2.1 Переменные и типы данных:
 

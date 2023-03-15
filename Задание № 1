@@ -1,5 +1,16 @@
-Напишите Java-программу, которая:
-1. запрашивает ФИО пользователя,
-2. отображает приветствие на консоли,
-3. запрашивает по имени возраст,
-4. отображает возраст на консоли.
+import java.util.Scanner;
+ 
+public class Main {
+   
+    public static void main(String[] args) {
+           
+        Scanner in = new Scanner(System.in);
+        System.out.print("Введите ФИО: ");
+        String name = in.nextLine();
+        System.out.printf("Здравтсвуйте, %s! \n", name);
+        System.out.printf("%s, введите ваш возраст:", name);
+        int age = in.nextInt();
+        System.out.printf("ФИО: %s.  Возраст: %d лет. \n", name, age);
+        in.close();
+    }
+}

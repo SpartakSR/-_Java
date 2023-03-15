@@ -14,7 +14,7 @@
 
 Напишите Java-программу, которая при заданном радиусе вычисляет и отображает площадь круга.
 
-Решение: https://github.com/SpartakSR/Task-Java/blob/main/2.1.java
+[Решение](https://github.com/SpartakSR/Task-Java/blob/main/2.1.java)
 
 ## Задание № 2.3 Управляющие конструкции:
 
